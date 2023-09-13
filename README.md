@@ -31,7 +31,7 @@ git clone https://github.com/julianorib/terraform-oracle-vm.git
 
 ## Ajustes no Projeto
 
-Verificar as variáveis em *variables.tf* e defini-las em um novo arquivo *terraform.tfvars*
+Verificar as variáveis em *variables.tf* e defini-las em um novo arquivo *terraform.tfvars* se desejar
 
 ```
 Nome
@@ -44,7 +44,8 @@ SSH-Key
 
 Para autenticar no Provedor, digite o comando abaixo:
 ```
-oci session authenticate```
+oci session authenticate
+```
 
 
 ## Execute para Criação
