@@ -1,6 +1,6 @@
 # Criando 4 Maquinas Virtuais na OCI com Terraform
 
-Diz a lenda que a Oracle Cloud disponibiliza 1 Instância ARM com 4CPUs e 24GB de Ram no modo free-tier para sempre.**Vamos ver né!**
+Diz a lenda que a Oracle Cloud disponibiliza 1 Instância ARM com 4CPUs e 24GB de Ram no modo free-tier para sempre. **Vamos ver né!**
 <br>
 Dividimos a instância em 4 com 1 vcpu e 4gb mem cada.
 
