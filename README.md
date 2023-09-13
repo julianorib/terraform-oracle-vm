@@ -4,6 +4,9 @@ Diz a lenda que a Oracle Cloud disponibiliza 1 Instância ARM com 4CPUs e 24GB d
 <br>
 Dividimos a instância em 4 com 1 vcpu e 4gb mem cada.
 
+https://docs.oracle.com/pt-br/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm
+
+
 - Primeiramente tenha uma conta na OCI (Oracle Cloud).
 - Tenha ou Instale o Terraform no seu Computador.
 - Tenha ou Instale o OCI Cli no seu Computador.
